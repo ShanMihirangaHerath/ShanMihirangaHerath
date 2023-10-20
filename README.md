@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://ibb.co/bdRs91F" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hey ! 👋
 I'm Solo Coder, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
