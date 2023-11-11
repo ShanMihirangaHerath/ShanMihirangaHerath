@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **OOP with java**
 
-- 👨‍💻 I'm Undergraduate at Java Institute For Advance Technology(Java Institute For Advance Technology)
+- 👨‍💻 I'm Undergraduate at Java Institute For Advance Technology
 
 - 💬 Ask me about **Web Development | OOC**
 
