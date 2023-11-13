@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=shanmihirangaherath&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanmihirangaherath&theme=dark&hide_border=true" alt="shanmihirangaherath" />
 
 
   
@@ -53,10 +53,7 @@
 
 <td width="50%" align="center">
 
-  <img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmihirangaherath&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmihirangaherath&langs_count=5&theme=tokyonight)]()
   
   </td>
 </tr>
