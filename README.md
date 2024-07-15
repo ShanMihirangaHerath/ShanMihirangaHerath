@@ -2,7 +2,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hey,there+I'm+T+K+Y+Chalith+Jayoda+%F0%9F%91%8B;Solo+Coder;Software+Engineer;Back-End+Engineer;Problem+Solver;Freelancer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=700&height=50&lines=Hey,there+I'm+T+K+Y+C+Jayoda+%F0%9F%91%8B;Solo+Coder;Software+Engineer;Back-End+Engineer;Problem+Solver;Freelancer" alt="Headline" />
     </div>
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
 
